@@ -4,7 +4,7 @@
 16, 4 -> кратно.
  */
 
-/* Console.WriteLine("Введите число А: ");
+Console.WriteLine("Введите число А: ");
 int numberA = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число B: ");
 int numberB = Convert.ToInt32(Console.ReadLine());
@@ -16,7 +16,8 @@ else
 {
     Console.WriteLine($"Не кратно, остаток {numberA % numberB}");
 }
- */
+ 
+ ---------------------------*/
 
 
 Console.WriteLine("Введите число А: ");

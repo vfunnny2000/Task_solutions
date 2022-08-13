@@ -1,0 +1,15 @@
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task22\bin\Debug\net6.0\task22.exe
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task22\bin\Debug\net6.0\task22.deps.json
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task22\bin\Debug\net6.0\task22.runtimeconfig.json
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task22\bin\Debug\net6.0\task22.dll
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task22\bin\Debug\net6.0\task22.pdb
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task22\obj\Debug\net6.0\task22.csproj.AssemblyReference.cache
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task22\obj\Debug\net6.0\task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task22\obj\Debug\net6.0\task22.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task22\obj\Debug\net6.0\task22.AssemblyInfo.cs
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task22\obj\Debug\net6.0\task22.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task22\obj\Debug\net6.0\task22.dll
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task22\obj\Debug\net6.0\refint\task22.dll
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task22\obj\Debug\net6.0\task22.pdb
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task22\obj\Debug\net6.0\task22.genruntimeconfig.cache
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task22\obj\Debug\net6.0\ref\task22.dll

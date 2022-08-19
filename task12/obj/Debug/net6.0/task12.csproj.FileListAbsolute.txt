@@ -28,3 +28,11 @@ C:\Users\пк\Desktop\Reps\task12\obj\Debug\net6.0\refint\task12.dll
 C:\Users\пк\Desktop\Reps\task12\obj\Debug\net6.0\task12.pdb
 C:\Users\пк\Desktop\Reps\task12\obj\Debug\net6.0\task12.genruntimeconfig.cache
 C:\Users\пк\Desktop\Reps\task12\obj\Debug\net6.0\ref\task12.dll
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task12\obj\Debug\net6.0\task12.csproj.AssemblyReference.cache
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task12\obj\Debug\net6.0\task12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task12\obj\Debug\net6.0\task12.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task12\obj\Debug\net6.0\task12.AssemblyInfo.cs
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task12\obj\Debug\net6.0\task12.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task12\obj\Debug\net6.0\task12.dll
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task12\obj\Debug\net6.0\refint\task12.dll
+C:\Users\пк\Desktop\Reps\Tasks_solutions\task12\obj\Debug\net6.0\task12.pdb
